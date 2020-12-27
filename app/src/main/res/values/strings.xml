@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleAndroid</string>
+    <string name="id">ログインID</string>
+    <string name="password">パスワード</string>
+    <string name="login_button_text">ログイン</string>
+
+    <string name="login_id_hint">ログインIDを入力してください。</string>
+    <string name="password_id_hint">パスワードを入力してください。</string>
+</resources>

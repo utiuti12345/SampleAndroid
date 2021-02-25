@@ -8,7 +8,8 @@
                    android:layout_width="match_parent"
                    android:layout_height="120dp"
                    android:layout_gravity="center_horizontal"
-                   android:layout_marginTop="@dimen/login_margin_top"/>
+                   android:layout_marginTop="@dimen/login_margin_top"
+                   android:src="@drawable/logo"/>
         <RelativeLayout android:id="@+id/login_id"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -106,7 +107,7 @@
                         android:layout_marginRight="@dimen/login_margin_right"
                         android:layout_marginTop="25dp">
             <Button android:textSize="@dimen/login_text_size"
-                    android:id="@+id/btn_login"
+                    android:id="@+id/login_btn"
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/login_input_height"
                     android:layout_alignParentRight="true"
